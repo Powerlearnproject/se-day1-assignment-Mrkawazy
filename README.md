@@ -31,7 +31,7 @@ Software Engineering Day1 Assignment
                             - Customer feedback comes late after the product is developed.
                             - Testing is done at the end of the development process.
 
-      agile methodology - Iterative and incremental, with multiple cycles (sprints). 
+agile methodology - Iterative and incremental, with multiple cycles (sprints). 
                         - High flexibility, adapts to changing requirements. 
                         - Regular customer feedback is incorporated into every sprint. 
                         - Testing is continuous and done after each iteration.
@@ -63,7 +63,7 @@ Software Engineering Day1 Assignment
               -  The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex                              integration tests are run.
               -  Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools                      that highlight bugs caused by human error in real time, even as the developer is typing.
 
-      Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
+Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
       importance:
           -  Collaboration: Enables multiple developers to work on the same codebase without conflicts.
           -  Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
